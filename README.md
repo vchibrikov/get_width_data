@@ -2,7 +2,7 @@
 
 get_width_data.py is a Python script that extracts the width data of a given image file and saves it to a CSV file. This script is designed to work with a variety of image file formats such as JPEG, PNG, and BMP.
 
-# Prerequisites
+# System requirements
 
 - Python 3.5 or higher
 - Pillow library (pip install Pillow)
