@@ -24,10 +24,11 @@ extensions = ('.jpeg','.tiff', '.jpg', '.tif')
 The script will generate a test_data.csv file, which will contain the following columns: 'file_name', 'point_1', 'point_2', 'pixel_width', 'width_metric_units'.
 The 'file_name' column contains the name of the image file, 'point_1' and 'point_2' columns contain start and end points of width calculation, 'pixel_width' column contains the width data in pixels, and the 'width_metric_units' column specifies width in defined metric units.
 
+# Example
+
+Interaction with input image is represented on an image below:
+![BC_0 00_R_TOP 009_OUTPUT](https://github.com/vchibrikov/get_width_data/assets/98614057/dccb2370-1fe1-41cf-841f-ad4f51e772c0)
+
 # License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-# Acknowledgments
-
-The Pillow library for its image processing capabilities.
